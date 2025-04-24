@@ -50,12 +50,13 @@ El conjunto de datos incluye más de 1.8 millones de observaciones y 13 variable
 
 ---
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
-├── data/                      # Datos originales y procesados
-├── notebooks/                # Jupyter Notebooks del análisis y modelado
-├── README.md                 # Este archivo
+├── data/                     # Datos originales y procesados
+├── notebooks/                # Python Notebooks del análisis y modelado
+├── informe                   # Informe final del proyecto
+├── README.md                 
 ```
 
 ---
